@@ -33,3 +33,9 @@ evaluate the error rate with the testing set.
 An important hint about the implementation is saving model at intermediate epochs. While training 
 the network, dataset is usually divided into mini-batches. After computing the loss for each batch, parameters of the network are updated. One pass of whole training set is called an epoch. In order to get a good fit to data, the number of epochs that the network will be trained should be determined. This can be done with the help of loss history plots that shows the loss computed using training and validation sets for each epoch. After examining the plot, one can decide on the number of epochs. In order not to retrain the network, you can save model and optimizer parameters at some epochs (i.e. at each 5 epochs). Another important hint is setting a seed for random number generators. This allows the experiments to be repeatable since whenever it is run, it starts from the same random parameters.
 
+More detailed information, please check the pdf project file => [Project_Description.pdf](https://github.com/ilbey/Age-Prediction-based-on-Iris-Biometric-Data/files/9104799/Project_Description.pdf)
+
+
+For Project Results and Report, please check the pdf file => IRISDeep_Report.pdf
+
+
