@@ -36,6 +36,4 @@ the network, dataset is usually divided into mini-batches. After computing the l
 More detailed information, please check the pdf project file => [Project_Description.pdf](https://github.com/ilbey/Age-Prediction-based-on-Iris-Biometric-Data/files/9104799/Project_Description.pdf)
 
 
-For Project Results and Report, please check the pdf file => IRISDeep_Report.pdf
-
-
+For Project Results and Report, please check the pdf file => [Age-Prediction-based-on-Iris-Biometric-Data_Report.pdf](https://github.com/ilbey/Age-Prediction-based-on-Iris-Biometric-Data/files/9106443/Age-Prediction-based-on-Iris-Biometric-Data_Report.pdf)
